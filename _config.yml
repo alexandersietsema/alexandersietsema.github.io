@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Sietsema"
-  avatar           : "headshot.jpg"
-  bio              : "Undergraduate Student at Michigan State University"
+  avatar           : "headshot-small.jpg"
+  bio              : "Undergraduate student at Michigan State University"
   location         : "East Lansing, MI"
   employer         :
   pubmed           : 
