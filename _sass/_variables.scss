@@ -54,7 +54,7 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 $terra-cotta                : #CC6633;
 
-$body-color                 : #fff;
+$body-color                 : $terra-cotta;
 $background-color           : $terra-cotta;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
