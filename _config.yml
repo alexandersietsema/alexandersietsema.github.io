@@ -86,7 +86,7 @@ author:
   location         : "East Lansing, MI"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=gi95kNwAAAAJ&hl=en"
   email            : "sietsem6@msu.edu"
   researchgate     :  
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2307-2747"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
