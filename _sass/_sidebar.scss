@@ -99,6 +99,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  background: $terra-cotta;
 
   @include breakpoint($large) {
     display: block;
