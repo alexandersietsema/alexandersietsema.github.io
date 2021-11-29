@@ -63,7 +63,7 @@ Relevant Coursework
 **Mathematics**
 * Calculus I,II,III
 * Intro to Differential Equations
-* Honors Linear Algebra* Honors Abstract Algebra I, II
+* Honors Linear Algebra, Honors Abstract Algebra I, II
 * Honors Intro Analysis, Real Analysis
 * Graduate Real Analysis (Measure Theory)
 * Discrete Mathematics I, II
@@ -83,9 +83,9 @@ Relevant Coursework
 
 Extracurricular Activities
 ======
-* MSU Math Department Ultimate Frisbee (2018-present) | Organizer
-* Phantom Regiment Drum and Bugle Corps (2019) | Euphonium player, small ensemble member
-	*2019 Drum Corps International World Class Championship Finalist*
-* Spartan Marching Band (2018) | Baritone player
-* Legends Drum and Bugle Corps (2018) | Baritone player
-	*2018 Drum Corps International Open Class Championship Finalist*
+* MSU Math Department Ultimate Frisbee (2018-present), Organizer
+* Phantom Regiment Drum and Bugle Corps (2019), Euphonium player, small ensemble member  
+*2019 Drum Corps International World Class Championship Finalist*
+* Spartan Marching Band (2018), Baritone player
+* Legends Drum and Bugle Corps (2018), Baritone player  
+*2018 Drum Corps International Open Class Championship Finalist*
