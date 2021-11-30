@@ -88,9 +88,9 @@
 	padding: 5px;
 	border: 1px solid $terra-cotta;
 	box-shadow:
-		inset 0 0 0 25px $blue,
-		inset 0 0 0 50px $background-color,
-		inset 0 0 0 75px $terra-cotta;
+		0 0 0 5px $terra-cotta,
+		0 0 0 2px $background-color,
+		0 0 0 1px $blue;
     @include breakpoint($large) {
       padding: 5px;
 	  
