@@ -84,11 +84,15 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      <! --- border: 1px solid $blue; 1px solid $terra-cotta; --->
+	  box-shadow:
+		0 0 0 1px #blue,
+		0 0 0 3px #background-color,
+		0 0 0 8x #terra-cotta,
     }
   }
 }
