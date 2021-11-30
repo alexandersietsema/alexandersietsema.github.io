@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate at Michigan State University. My current research is on topics in numerical linear algebra, X-ray CT tomography, compressed sensing, quantum computing, and sports analytics. See the [Research](https://alexandersietsema.github.io/research/) tab above for more details!
+I am a fourth year undergraduate at Michigan State University. My current research is on topics in numerical linear algebra, X-ray CT tomography, compressed sensing, quantum computing, and sports analytics. See the [Research](https://alexandersietsema.github.io/research/) tab for more details!
