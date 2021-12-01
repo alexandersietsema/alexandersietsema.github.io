@@ -21,26 +21,32 @@ Research Experience
 ======
 ### Appel ̈o High Order Group (Fall 2021)
 *Advisor:  Daniel Appel ̈o*
+
 Developing and analyzing computational tools for quantum computing applications.
 
 ### MSU Risk Management and Sports Analytics Group (Fall 2021)
 *Advisor:  Albert Cohen*
+
 Developing new methods for optimal decision making for two-point conversion attempts in American football; analyzing the effects of fights in hockey on the outcomes of games.
 
 ### UCLA Computational and Applied Mathematics REU (Summer 2021 - Present)
 *Advisor:  Jamie Haddock*
+
 Exploring Kaczmarz methods for inconsistent and corrupted linear systems and their connections to maximum likelihood estimation techniques for ranking sports teams.
 
 ### Department of Mathematics Exchange Program (Spring 2021)
 *Advisor:  Ekaterina Rapinchuk*
+
 Exploring methods and tools for semi-supervised learning and graph-based learning.
 
 ### Combinatorics Research (Fall 2020 – Summer 2021)
 *Advisor:  Bruce Sagan*
+
 Proving new results on shuffle sets, permutation statistics, and pattern avoidance for cyclic permutations.
 
 ### MSU Signals, Learning, and Imaging Group (Spring 2020 – Present)
 *Advisor:  Saiprasad Ravishankar*
+
 Investigating algorithms for correcting scattering artifacts in MeV tomography measurements in collaboration with researchers at Los Alamos National Laboratories.  Additionally, considering data-driven algorithms to solve compressed sensing problems.
 
 Publications
