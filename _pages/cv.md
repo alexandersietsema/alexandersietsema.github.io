@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf is available [here](https://alexandersietsema.github.io/files/sietsemacv.pdf), though it may not be up to date.
+A pdf is available [here](https://alexandersietsema.github.io/files/sietsemaCV.pdf), though it may not be up to date.
 
 Education
 ======
@@ -61,8 +61,6 @@ Technical Skills
 Relevant Coursework
 ======
 **Mathematics**
-* Calculus I,II,III
-* Intro to Differential Equations
 * Honors Linear Algebra, Honors Abstract Algebra I, II
 * Honors Intro Analysis, Real Analysis
 * Graduate Real Analysis (Measure Theory)
@@ -72,14 +70,6 @@ Relevant Coursework
 * Fourier Analysis
 * Graduate Numerical Linear Algebra
 * Graduate Numerical Ordinary Differential Equations
-
-**Other**
-* Algorithms and Data Structures
-* Computational Modeling and Data Analysis I, II
-* Introduction to Data Science
-* General Chemistry I, II, Laboratory
-* Calculus Concepts Physics I, II
-* Introduction to Microeconomics
 
 Extracurricular Activities
 ======
