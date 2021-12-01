@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf is available [here](https://alexandersietsema.github.io/files/sietsemaCV.pdf), though it may not be up to date.
+A PDF is available [here](https://alexandersietsema.github.io/files/sietsemaCV.pdf), though it may not be up to date.
 
 Education
 ======
@@ -103,6 +103,6 @@ Extracurricular Activities
 * MSU Math Department Ultimate Frisbee (2018-present), Organizer
 * Phantom Regiment Drum and Bugle Corps (2019), Euphonium player, small ensemble member  
 *2019 Drum Corps International World Class Championship Finalist*
-* Spartan Marching Band (2018), Baritone player
+* Michigan State University Spartan Marching Band (2018), Baritone player
 * Legends Drum and Bugle Corps (2018), Baritone player  
 *2018 Drum Corps International Open Class Championship Finalist*
