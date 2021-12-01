@@ -55,6 +55,11 @@
     border-bottom: 1px solid $border-color;
   }
 
+  h3 {
+	color: $blue;
+	font-size: $type-size-2;
+  }
+  
   p, li, dl {
     font-size: 1em;
   }
