@@ -53,6 +53,7 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 $white                      : #fff;
+$black                      : #000;
 $blue                       : #0073a8;
 $parchment                  : #fcf7eb;
 $terra-cotta                : #b84f1f;
@@ -62,7 +63,7 @@ $body-color                 : $white;
 $background-color           : $parchment;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $black;
 $border-color               : $terra-cotta;
 
 $primary-color              : $gray;
