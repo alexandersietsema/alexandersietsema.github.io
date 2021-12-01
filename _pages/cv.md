@@ -19,28 +19,47 @@ Education
 
 Research Experience
 ======
- <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Appel ̈o High Order Group (Fall 2021)
+*Advisor:  Daniel Appel ̈o*
+Developing and analyzing computational tools for quantum computing applications.
 
+### MSU Risk Management and Sports Analytics Group (Fall 2021)
+*Advisor:  Albert Cohen*
+Developing new methods for optimal decision making for two-point conversion attempts in American football; analyzing the effects of fights in hockey on the outcomes of games.
+
+### UCLA Computational and Applied Mathematics REU (Summer 2021 - Present)
+*Advisor:  Jamie Haddock*
+Exploring Kaczmarz methods for inconsistent and corrupted linear systems and their connections to maximum likelihood estimation techniques for ranking sports teams.
+
+### Department of Mathematics Exchange Program (Spring 2021)
+*Advisor:  Ekaterina Rapinchuk*
+Exploring methods and tools for semi-supervised learning and graph-based learning.
+
+### Combinatorics Research (Fall 2020 – Summer 2021)
+*Advisor:  Bruce Sagan*
+Proving new results on shuffle sets, permutation statistics, and pattern avoidance for cyclic permutations.
+
+### MSU Signals, Learning, and Imaging Group (Spring 2020 – Present)
+*Advisor:  Saiprasad Ravishankar*
+Investigating algorithms for correcting scattering artifacts in MeV tomography measurements in collaboration with researchers at Los Alamos National Laboratories.  Additionally, considering data-driven algorithms to solve compressed sensing problems.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  {% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
+  {% endfor %}
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 Honors
 ======
@@ -61,15 +80,17 @@ Technical Skills
 Relevant Coursework
 ======
 **Mathematics**
-* Honors Linear Algebra, Honors Abstract Algebra I, II
-* Honors Intro Analysis, Real Analysis
-* Graduate Real Analysis (Measure Theory)
-* Discrete Mathematics I, II
-* Graduate Combinatorics I, II
-* Graduate Topics in Algebra (Combinatorics)
-* Fourier Analysis
-* Graduate Numerical Linear Algebra
-* Graduate Numerical Ordinary Differential Equations
+* Honors Linear Algebra (MTH 317H)
+* Honors Abstract Algebra I, II (MTH 418H, 419H)
+* Honors Intro Analysis, Real Analysis (MTH 327H, 429H)
+* Real Analysis (Measure Theory) (MTH 818, graduate qualifying sequence)
+* Discrete Mathematics I, II (MTH 481, 482)
+* Combinatorics I, II (MTH 880, 882)
+* Special Topics in Algebra (Combinatorics) (MTH 991)
+* Readings in Mathematics (Combinatorics) (MTH 890)
+* Capstone in Mathematics (Fourier Analysis) (MTH 496)
+* Numerical Linear Algebra (MTH 850, graduate qualifying sequence)
+* Numerical Ordinary Differential Equations (MTH 852, graduate qualifying sequence)
 
 Extracurricular Activities
 ======
