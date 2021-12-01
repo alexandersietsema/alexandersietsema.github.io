@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
+# Curriculum Vitae
 
 A PDF is available [here](https://alexandersietsema.github.io/files/sietsemaCV.pdf), though it may not be up to date.
 
@@ -19,8 +18,8 @@ Education
 
 Research Experience
 ======
-### Appel ̈o High Order Group (Fall 2021)
-*Advisor:  Daniel Appel ̈o*
+### Appel\H{o} High Order Group (Fall 2021)
+*Advisor:  Daniel Appel\H{o}*
 
 Developing and analyzing computational tools for quantum computing applications.
 
