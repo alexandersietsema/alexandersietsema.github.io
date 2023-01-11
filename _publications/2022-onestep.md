@@ -1,10 +1,10 @@
 ---
-title: "Comparing One-step and Two-step Scatter Correction And Density Reconstruction In X-Ray CT - Alexander N. Sietsema, Michael T. McCann, Marc L. Klasky, Saiprasad Ravishankar“
+title: "Comparing One-step and Two-step Scatter Correction And Density Reconstruction In X-Ray CT - Alexander N. Sietsema, Michael T. McCann, Marc L. Klasky, Saiprasad Ravishankar"
 collection: publications
 permalink: /publication/2022-onestep
-excerpt: 'We use synthetic data to compare the performance separate scatter correction and density reconstruction steps with solving a one-step optimization problem.’
+excerpt: We use synthetic data to compare the performance separate scatter correction and density reconstruction steps with solving a one-step optimization problem.
 date: 2022-01-01
-venue: 'Conference paper at the 7th International Conference on Image Formation in X-Ray Computed Tomography’
+venue: 'Published in Discrete Mathematics (vol. 345, iss. 7)'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0012365X22000887'
 ---
 
