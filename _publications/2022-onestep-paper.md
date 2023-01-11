@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-onestep-paper
 excerpt: We use synthetic data to compare the performance separate scatter correction and density reconstruction steps with solving a one-step optimization problem.
 date: 2022-01-01
-venue: 'Published in conference proceedings of the 7th International Conference on Image Formation in X-Ray Computed Tomography’
+venue: 'Published in conference proceedings of the 2022 CT Meeting’
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0012365X22000887'
 ---
 
