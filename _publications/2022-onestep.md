@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2022-onestep
 excerpt: We use synthetic data to compare the performance separate scatter correction and density reconstruction steps with solving a one-step optimization problem.
 date: 2022-01-01
-venue: 'Published in Discrete Mathematics (vol. 345, iss. 7)'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0012365X22000887'
+venue: 'Published in conference proceedings of the 7th International Conference on Image Formation in X-Ray Computed Tomography’
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12304/2647151/Comparing-one-step-and-two-step-scatter-correction-and-density/10.1117/12.2647151.full?SSO=1'
 ---
 
 We use synthetic data to compare the performance separate scatter correction and density reconstruction steps with solving a one-step optimization problem.
