@@ -1,5 +1,5 @@
 ---
-title: "Pinnacles 2: Electric Boogaloo"
+title: "Comparing One-step and Two-step Scatter Correction And Density Reconstruction In X-Ray CT - Alexander N. Sietsema, Michael T. McCann, Marc L. Klasky, Saiprasad Ravishankar"
 collection: publications
 permalink: /publication/2021-pinnacles-2
 excerpt: 'We prove results about pinnacle sets of permutations, including a simpler bijection which counts the number of admissible pinnacle sets.'
