@@ -16,3 +16,5 @@ Before starting at UCLA, I received a B.S. in Advanced Mathematics and a B.S. in
 
 TA, PIC 16B Lec 1,2
 Office Hours: TBD, MS 2953
+
+# Hello, PIC 16B!
