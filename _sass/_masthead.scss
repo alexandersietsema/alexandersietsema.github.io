@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid;
+  border-bottom: 10px solid;
   border-image:   linear-gradient(to right, $blue 27%, $terra-cotta 27%, $terra-cotta 100%) 4;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
