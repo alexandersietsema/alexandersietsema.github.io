@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-stochastic-ranking
 excerpt: 'We develop a variant of the Kaczmarz method for inequalities designed for pairwise comparison ranking problems.'
 date: 2024-01-01
-venue: 'Published in BIT Numerical Mathematics vol. 64 (2024)'
+venue: 'Published in BIT Numerical Mathematics vol. 64'
 ---
 We develop a variant of the Kaczmarz method for inequalities designed for pairwise comparison ranking problems.
 
