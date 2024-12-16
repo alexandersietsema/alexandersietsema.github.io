@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-stratified-tensor
 excerpt: 'We develop a stratified non-negative tensor factorization method to learn rank-one differences in data sources.'
 date: 2024-02-02
-venue: 'Submitted, Asilomar Conference on Signals, Systems, and Computers'
+venue: 'Published in conference proceedings of 58th Asilomar Conference on Signals, Systems, and Computers (2024)'
 ---
 We develop a stratified non-negative tensor factorization method to learn rank-one differences in data sources.
 
