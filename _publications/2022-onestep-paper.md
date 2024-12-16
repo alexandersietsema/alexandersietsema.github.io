@@ -8,4 +8,5 @@ venue: 'Published in conference proceedings of the 7th International on Image Fo
 paperurl: 'https://doi.org/10.1117/12.2647151'
 ---
 We use synthetic data to compare the performance separate scatter correction and density reconstruction steps with solving a one-step optimization problem.
+
 [View the paper here](https://doi.org/10.1117/12.2647151)
