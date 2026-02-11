@@ -1,5 +1,5 @@
 ---
-title: "A Cyclic Variant of the Erd\H{o}s-Szekeres Theorem"
+title: "A Cyclic Variant of the Erdős-Szekeres Theorem"
 collection: posters
 type: "Poster"
 permalink: /posters/2021_a_cyclic
