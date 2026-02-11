@@ -4,35 +4,25 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<i>Last updated: May 2022</i>
+<i>Last updated: Feb 2026</i>
+
+Machine learning is a rapidly evolving field. State-of-the-art methods often develop much more quickly than either their properties can be understood theoretically or their effects in practice adequately studied. My research focuses on addressing these concerns: first, I work on better understanding the theoretical foundations of machine learning, especially in understanding where and how existing algorithms fail to provide good results, and finding ways to mitigate those limitations. I also work on developing new algorithms to better address the constraints involved in specific applications. I explore these problems at the intersection of theory and practice, using tools from numerical linear algebra, convex optimization, and statistical learning theory. Below are a couple projects that I've been working on recently.
+
 <div style="display:inline-block">
-<h2> MSU SLIM Group </h2>
-<img align="left" style="width:35%; margin: 0px 20px 0px 0px;" src="../images/one-step.png">
-<p> At Michigan State, I was a member of of Dr. Saiprasad Ravishankar's <a href="https://www.egr.msu.edu/slimgroup/">Signals, Learning, and Imaging Group</a> at MSU, working in collaboration with Los Alamos National Lab. My focus was mainly on descattering and density reconstruction techniques for X-ray CT imaging. In particular, we looked at the performance of locally-learned scatter models for particle simulation data, as well as comparisons of one-step and two-step optimization techniques for these problems. The latter topic led to <a href="https://alexandersietsema.github.io/publication/2022-onestep">this paper</a>.
+<h2> Harmful Overfitting in Sobolev Spaces </h2>
+<img align="left" style="width:35%; margin: 0px 20px 0px 0px;" src="../images/sketch_diagram_2.png">
+<p> Conventional machine learning wisdom suggests that overfitting to training data tends to provide poor generalization. However, in many applications, we see that algorithms can both perfectly fit the training data and generalize well to unseen data. This phenomenon is known as <i>benign overfitting</i>. In this work, we consider minimum-norm optimizers of a noisy dataset in Sobolev spaces. Under reasonable assumptions, we prove that even approximately norm-minimizing functions which perfectly fit the training data <i>cannot</i> benignly overfit, that is, they must exhibit some constant, nonzero generalization error independent of the number of data points used. This a significant generalization of previous work, which either works in more restrictive Sobolev spaces or using more restrictive classes of functions (e.g., ReLU networks). This work was submitted in 2026 and is awaiting revision. The preprint is available <a href="https://arxiv.org/abs/2602.00825">here</a>.
 </p></div>
 
 <div style="display:inline-block">
 <br><br>
-<h2> Kaczmarz Methods </h2>
-<img align="right" style="width:35%; margin: 0px 0px 0px 20px;" src="../images/kaczmarz.png">
-<p> In the summer of 2021 I was fortunate enough to participate in the UCLA Computational and Applied Mathematics REU in which I studied Kaczmarz methods with Dr. Jamie Haddock. We are interested in all sorts of Kaczmarz-type methods and applications, but especially in coming up with weighting or sampling methods for extended Kaczmarz methods which may either improve convergence results or change the type of convergence achieved, especially for L1 problems.
+<h2> Geometric Deep Learning </h2>
+<img align="right" style="width:35%; margin: 0px 0px 0px 20px;" src="../images/manifold_graph_diagram.png">
+<p> Graph deep learning has become a critical tool for understanding large, unstructured datasets. Recent work has introduced diffusion wavelet-based methods for graph learning with scalar-valued signals. In many graph problems, however, nodes have vector-valued signals (such as locations in 3D space), and predictions should be invariant to rotations of those signals. For example, predicting wind vectors at a given location should be independent of the orientation chosen for the Earth. In this paper, we develop vector diffusion wavelet graph neural networks (VDW-GNNs) to extend diffusion wavelets to vector-valued signals. We prove that the method is rotationally invariant, and demonstrate improved performance over existing methods on real-world datasets. This work was submitted in 2026 and is awaiting revision.
 </p></div>
 
 <div style="display:inline-block">
-<h2> Stochastic Subtraction Games</h2>
-<img align="left" style="width:35%; margin: 0px 20px 0px 0px;" src="../images/stochastic_subtraction.png">
-<p>Imagine playing a two-player game with a pile of counters. Alternating turns, each player has to remove one, two, or three counters from the pile. The goal of the game is to be the player to take the last counter. This game (also known as the subtraction game, or by its more general form Nim) is a common example in combinatorial game theory, and optimal strategies are well known. I am interested in a variant in which the available moves have randomness involved, instead of being fixed quantities. This change leads to some interesting emergent properties and phenomena, and I am working on proving some facts about it. This idea was the subject of my honors senior thesis at MSU, found <a href="../files/honors_senior_thesis.pdf">here</a>.
+<h2> Kaczmarz Methods</h2>
+<img align="left" style="width:35%; margin: 0px 20px 0px 0px;" src="../images/kaczmarz.png">
+<p> In the summer of 2021 I was fortunate enough to participate in the UCLA Computational and Applied Mathematics REU in which I studied Kaczmarz methods with Dr. Jamie Haddock. Throughout my Ph.D. work, I have continued working on Kaczmarz methods for a variety of problem types and and applications, but especially for use in rank aggregation. We recently published a paper (found <a href="https://link.springer.com/article/10.1007/s10543-024-01024-x">here</a>) on applying Kaczmarz methods for pairwise comparison rank aggregation, with applications in recommender systems, information retrieval, sports, and sociology.
 </p></div>
-
-<div style="display:inline-block">
-<h2> Two Point Conversions </h2>
-<img align="right" style="width:35%; margin: 0px 0px 0px 20px;" src="../images/tpt.png">
-<p>I've always been a rather aggressively-minded college football fan, especially when it comes to two point conversions. I came across an approach by <a href="https://www.tandfonline.com/doi/abs/10.1080/09332480.2000.10542218">Sackrowitz (2000)</a> which matched up with my intuition and I have been working on extending it. The main idea is to treat the effect of the point-after-touchdown decision as a decision tree: after a touchdown, a team can decide to either go for two or kick an extra point, each of which creates different scenarios with different success rates. With certain assumptions, this tree can be backpropagated to come up with win probabilities for a given decision. This approach (Sackrowitz's) assumes that a coach knows exactly how many drives are remaining. If this isn't known, what is the best choice? I am trying to answer this question using data-driven models, as well as potentially include more decisions in the calculation.
-</p></div>
-
-<div style="display:inline-block">
-<h2> Sports Rankings </h2>
-<img align="left" style="width:35%; margin: 0px 20px 0px 0px;" src="../images/ultimate_rankings.png">
-<p>I'm incredibly bitter about the College Football Playoff, and naturally think a lot about better ways to rank sports teams. During the UCLA REU we discussed the least squares rating method, and it occurred to me that it would be particularly appropriate for Ultimate frisbee which led to the preparation of <a href="../files/ultimate_tas_12-1.pdf">this paper</a>. Other ongoing interests in this area include covariance estimation methods for sports data for use in weighted or generalized least squares settings, as well as graph-based approaches for interpreting game outcomes.
-</p></div>
-

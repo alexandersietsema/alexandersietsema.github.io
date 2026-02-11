@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alex Sietsema"
   avatar           : "headshot-new.jpg"
-  bio              : "Third year Ph.D. candidate at UCLA"
+  bio              : "Fourth year Ph.D. candidate at UCLA"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alexander-sietsema-94a597390/"
   orcid            : "https://orcid.org/0000-0003-2307-2747"
   pinterest        :
   soundcloud       :
