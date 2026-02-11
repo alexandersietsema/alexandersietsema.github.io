@@ -1,5 +1,5 @@
 ---
-title: "<i>Harmful Overfitting in Sobolev Spaces</i> - Kedar Karhadkar*, <b>Alexander Sietsema*</b>, Deanna Needell, Guido Montufar"
+title: "<i>Harmful Overfitting in Sobolev Spaces</i> - Kedar Karhadkar*, Alexander Sietsema*, Deanna Needell, Guido Montufar"
 collection: publications
 permalink: /publication/2024-harmful-overfitting
 excerpt: 'We show that minimum-norm interpolation in Sobolev spaces cannot benignly overfit under reasonable assumptions.'

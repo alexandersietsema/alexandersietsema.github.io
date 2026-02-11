@@ -1,5 +1,5 @@
 ---
-title: "Cyclic Shuffle Compatibility - Rachel Domagalski, Jinting Liang, Quinn Minnich, Bruce E. Sagan, Jamie Schmidt, Alexander Sietsema"
+title: "<i>Cyclic Shuffle Compatibility</i> - Rachel Domagalski, Jinting Liang, Quinn Minnich, Bruce E. Sagan, Jamie Schmidt, Alexander Sietsema"
 collection: publications
 permalink: /publication/2021-cyclic-shuffle
 excerpt: 'We define and study cyclic shuffle compatibility and show methods by which to lift results for linear permutations to cyclic ones.'

@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/2021_onestep_twostep
 venue: "CT Meeting 2022"
 date: 2022-06-01
-location: “Baltimore, MD”
+location: "Baltimore, MD"
 ---

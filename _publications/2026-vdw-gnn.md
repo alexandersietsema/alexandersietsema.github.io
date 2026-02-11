@@ -1,5 +1,5 @@
 ---
-title: "<i>VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks</i> - David R Johnson, <b>Alexander Sietsema</b>, Rishabh Anand, Deanna Needell, Smita Krishnaswamy, Michael Perlmutter"
+title: "<i>VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks</i> - David R Johnson, Alexander Sietsema, Rishabh Anand, Deanna Needell, Smita Krishnaswamy, Michael Perlmutter"
 author: "David R Johnson, <b>Alexander Sietsema</b>, Rishabh Anand, Deanna Needell, Smita Krishnaswamy, Michael Perlmutter"
 collection: publications
 permalink: /publication/2024-harmful-overfitting

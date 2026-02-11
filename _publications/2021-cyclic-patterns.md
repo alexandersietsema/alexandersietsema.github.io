@@ -1,5 +1,5 @@
 ---
-title: "Cyclic Pattern Containment and Avoidance- Rachel Domagalski, Sergi Elizalde, Jinting Liang, Quinn Minnich, Bruce E. Sagan, Jamie Schmidt, Alexander Sietsema"
+title: "<i>Cyclic Pattern Containment and Avoidance</i> - Rachel Domagalski, Sergi Elizalde, Jinting Liang, Quinn Minnich, Bruce E. Sagan, Jamie Schmidt, Alexander Sietsema"
 collection: publications
 permalink: /publication/2021-cyclic-patterns
 excerpt: 'We study a variant of pattern avoidance for cyclic permutations. We prove results including a cyclic variant of the Erdos-Szekeres theorem and results about avoidance of multiple patterns of length 4.'
