@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<i>Last updated: Winter 2026. * indicates equal contribution.</i>
+<i>Last updated: Winter 2026. ∗ indicates equal contribution.</i>
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=gi95kNwAAAAJ">my Google Scholar profile</a>.
 <br>

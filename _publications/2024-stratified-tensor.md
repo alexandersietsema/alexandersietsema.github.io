@@ -1,5 +1,5 @@
 ---
-title: "<i>Stratified Non-Negative Tensor Factorization</i> - Alexander Sietsema\*, Zerrin Vural\*, James Chapman, Yotam Yaniv, Deanna Needell"
+title: "<i>Stratified Non-Negative Tensor Factorization</i> - Alexander Sietsema∗, Zerrin Vural∗, James Chapman, Yotam Yaniv, Deanna Needell"
 collection: cpublications
 type: 'cpublications'
 permalink: /cpublication/2024-stratified-tensor
