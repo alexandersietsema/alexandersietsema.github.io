@@ -13,6 +13,39 @@ author_profile: true
 
 {% endif %}
 
+
+<br>
+<h2>Oral presentations</h2>
+<br>
+{% for post in site.talks reversed %}
+  {% if post.type == "Talk" %}
+	{% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<br>
+<h2>Travel</h2>
+<br>
+{% for post in site.talks reversed %}
+  {% if post.type == "Travel" %}
+	{% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<br>
+<h2>Posters</h2>
+<br>
+{% for post in site.talks reversed %}
+  {% if post.type == "Poster" %}
+	{% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<br>
+<h2>Old</h2>
+<br>
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+

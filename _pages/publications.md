@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-i>Last updated: Winter 2026. * indicates equal contribution.</i>
+<i>Last updated: Winter 2026. * indicates equal contribution.</i>
 <br>
 <br>
 
