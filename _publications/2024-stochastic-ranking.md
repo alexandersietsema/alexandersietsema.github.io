@@ -1,6 +1,7 @@
 ---
 title: "<i>Stochastic Iterative Methods for Online Rank Aggregation from Pairwise Comparisons</i> - Benjamin Jarman, Lara Kassab, Deanna Needell, Alexander Sietsema"
 collection: jpublications
+type: 'jpublications'
 permalink: /jpublication/2024-stochastic-ranking
 excerpt: 'We develop a variant of the Kaczmarz method for inequalities designed for pairwise comparison ranking problems.'
 date: 2024-01-01

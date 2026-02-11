@@ -1,6 +1,7 @@
 ---
 title: "<i>VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks</i> - David R Johnson, Alexander Sietsema, Rishabh Anand, Deanna Needell, Smita Krishnaswamy, Michael Perlmutter"
 collection: cpublications
+type: 'cpublications'
 permalink: /cpublications/2024-harmful-overfitting
 excerpt: 'We develop vector diffusion wavelet-based graph neural networks to handle vector valued signals, and show that these networks possess useful rotational invariance properties.'
 date: 2026-02-01

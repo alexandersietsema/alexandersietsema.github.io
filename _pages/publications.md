@@ -12,16 +12,14 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <h2>Journal Publications</h2>
 {% for post in site.publications reversed %}
-  {post.collection}
-  {{post.collection}}
-  {% if post.collection == "jpublications" %}
+  {% if post.type == "jpublications" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 <h2>Conference Publications</h2>
 {% for post in site.publications reversed %}
-  {% if post.collection == "cpublications" %}
+  {% if post.type == "cpublications" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

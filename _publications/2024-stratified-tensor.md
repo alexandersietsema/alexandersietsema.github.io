@@ -1,6 +1,7 @@
 ---
 title: "<i>Stratified Non-Negative Tensor Factorization</i> - Alexander Sietsema\*, Zerrin Vural\*, James Chapman, Yotam Yaniv, Deanna Needell"
 collection: cpublications
+type: 'cpublications'
 permalink: /cpublication/2024-stratified-tensor
 excerpt: 'We develop a stratified non-negative tensor factorization method to learn rank-one differences in data sources.'
 date: 2024-02-02
