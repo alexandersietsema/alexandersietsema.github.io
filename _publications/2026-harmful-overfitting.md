@@ -1,5 +1,5 @@
 ---
-title: "<i>Harmful Overfitting in Sobolev Spaces</i> - Kedar Karhadkar\*, Alexander Sietsema\*, Deanna Needell, Guido Montufar"
+title: "<i>Harmful Overfitting in Sobolev Spaces</i> - Kedar Karhadkar∗, Alexander Sietsema∗, Deanna Needell, Guido Montufar"
 collection: cpublications
 type: 'cpublications'
 permalink: /cpublications/2026-harmful-overfitting
