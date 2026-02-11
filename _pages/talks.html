@@ -8,26 +8,22 @@ author_profile: true
 <br>
 <br>
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
-
-<br>
-<h2>Oral presentations</h2>
+<h2>Conference oral presentations</h2>
 <br>
 {% for post in site.talks reversed %}
-  {% if post.type == "Talk" %}
+  {% if post.type == "Conference Talk" %}
 	{% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
 <br>
-<h2>Travel</h2>
+<h2>Seminar talks</h2>
 <br>
 {% for post in site.talks reversed %}
-  {% if post.type == "Travel" %}
+  {% if post.type == "Talk" %}
 	{% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
@@ -42,10 +38,11 @@ author_profile: true
 {% endfor %}
 
 <br>
-<h2>Old</h2>
+<h2>Travel</h2>
 <br>
-
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == "Travel" %}
+	{% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
 
