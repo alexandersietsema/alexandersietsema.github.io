@@ -5,6 +5,6 @@ type: 'cpublications'
 permalink: /cpublications/2024-harmful-overfitting
 excerpt: 'We develop vector diffusion wavelet-based graph neural networks to handle vector valued signals, and show that these networks possess useful rotational invariance properties.'
 date: 2026-02-01
-venue: 'Submitted, 2026'
+venue: 'Submitted'
 ---
 We develop vector diffusion wavelet-based graph neural networks to handle vector valued signals, and show that these networks possess useful rotational invariance properties.
