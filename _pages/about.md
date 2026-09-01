@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year applied mathematics Ph.D. candidate at UCLA advised by Deanna Needell. My research falls into two main areas: first, I work to better understand the theoretical foundations of machine learning, with a focus on determining when and why existing algorithms fail to provide good results and finding ways to mitigate those limitations. I also develop new algorithms to better address the constraints involved in specific applications where existing methods are not effective. As modern dataset sizes continue to grow, learning with big data is a theme throughout my work. I explore these problems at the intersection of theory and practice, using tools from numerical linear algebra, convex optimization, and statistical learning theory. See the [Research](https://alexandersietsema.github.io/research/) section for more details.
+<b> I will be on the job market beginning in September 2026.</b>
+
+I am a fourth year applied mathematics Ph.D. candidate at UCLA advised by Deanna Needell. My research focuses on better understanding the mathematical tools of data science and machine learning. As modern datasets continue to become larger and more complex, understanding their properties and how to learn from them has become increasingly important. Many datasets contain natural structures like symmetry, smoothness, or intrinsic low-dimensional geometry; simultaneously, the methods we choose to learn from these datasets induce properties of their own. My research seeks to better understand how such structures and inductive biases affect the performance of learning algorithms. I work to identify these structures, prove theoretical guarantees about their effects, and incorporate them into new, more effective learning methods. I approach these problems using tools from high-dimensional probability, numerical linear algebra, and computational harmonic analysis, working across both theory and practice. See the [Research](https://alexandersietsema.github.io/research/) section for more details.
 
 Before starting at UCLA, I received a B.S. in Advanced Mathematics and a B.S. in Computational Mathematics from Michigan State University. I also grew up in East Lansing. See the [Personal](https://alexandersietsema.github.io/personal/) section for more details.
+
 
 ## Recent News
 
