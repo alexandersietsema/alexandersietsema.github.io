@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-<b> I will be on the job market beginning in September 2026.</b>
+<b> I am currently on the job market! Please reach out if there is anything you would like to discuss.</b>
 
-I am a fourth year applied mathematics Ph.D. candidate at UCLA advised by Deanna Needell. My research focuses on better understanding the mathematical tools of data science and machine learning. As modern datasets continue to become larger and more complex, understanding their properties and how to learn from them has become increasingly important. Many datasets contain natural structures like symmetry, smoothness, or intrinsic low-dimensional geometry; simultaneously, the methods we choose to learn from these datasets induce properties of their own. My research seeks to better understand how such structures and inductive biases affect the performance of learning algorithms. I work to identify these structures, prove theoretical guarantees about their effects, and incorporate them into new, more effective learning methods. I approach these problems using tools from high-dimensional probability, numerical linear algebra, and computational harmonic analysis, working across both theory and practice. See the [Research](https://alexandersietsema.github.io/research/) section for more details.
+I am a final year applied mathematics Ph.D. candidate at UCLA advised by Deanna Needell. My work focuses on the mathematical tools of data science and machine learning. As AI systems become an increasingly integral part of everyday life, understanding the way they behave is critical. <b>My research analyzes how the structure of modern datasets, as well as the properties of the models we choose to learn from them, affect the performance of learning algorithms.</b> I work to understand these properties mathematically, incorporate them into new, more effective learning methods, and apply them to interdisciplinary problems. I approach these problems using tools from high-dimensional probability, numerical linear algebra, and computational harmonic analysis, working across both theory and practice. See the [Research](https://alexandersietsema.github.io/research/) section for more information.
 
-Before starting at UCLA, I received a B.S. in Advanced Mathematics and a B.S. in Computational Mathematics from Michigan State University. I also grew up in East Lansing. See the [Personal](https://alexandersietsema.github.io/personal/) section for more details.
+I am originally from East Lansing, MI. Before starting at UCLA, I received a B.S. in Advanced Mathematics and a B.S. in Computational Mathematics from Michigan State University. See the [Personal](https://alexandersietsema.github.io/personal/) section for more details.
 
 
 ## Recent News
 
+<b>September 2026: </b> I have been awarded the UCLA Carolyn D. Smith Graduate Scholarship for future teachers!
+
 <b>May 2026: </b> I have been selected as one of the recipients of the UCLA Department of Mathematics Dissertation Year Award for 2026-2027! I am grateful to the department for their recognition and support.
 
-<b>May 2026: </b> I have received the Liggett UCLA Math Department Teaching Award for 2026!
+<b>May 2026: </b> I have been awarded the Liggett UCLA Math Department Teaching Award for 2026!
 
 <b>April 2026: </b> Our paper <i>"Harmful Overfitting in Sobolev Spaces"</i> has been accepted to ICML 2026! I will be presenting in person in July at the conference in Seoul, South Korea.
 
