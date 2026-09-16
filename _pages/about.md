@@ -32,6 +32,3 @@ I am originally from East Lansing, MI. Before starting at UCLA, I received a B.S
 <b>April 2026: </b> I will be speaking at the International Conference on Computational Harmonic Analysis at Vanderbilt University in May! The conference will be held from May 18-22 in Nashville, TN.
 
 <b>April 2026: </b> I will be giving a talk at the Southern California Applied Mathematics Symposium at Loyola Marymount University in late April! I will be speaking about our recent work in harmful and benign overfitting in Sobolev spaces.
-
-<b>February 2026: </b> I have been accepted into the ICTP-INdAM-SLMath summer school on Mathematics For Machine Learning! The summer school will be held in Trieste, Italy from June 15-June 22.
-
