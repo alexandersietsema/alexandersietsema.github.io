@@ -50,15 +50,16 @@
   margin: 0;
 }
 
-.personal-row figure img {
+.personal-row img {
   width: 100%;
   height: auto;
   display: block;
 }
 
-.personal-row figure figcaption {
+.personal-caption {
+  text-align: center;
   width: 100%;
-  text-align: center !important;
+  margin-top: 5px;
 }
 
 
