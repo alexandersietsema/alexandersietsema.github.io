@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.personal-pictures {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.personal-pictures figure {
+  margin: 0;
+}
+
+.personal-pictures img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.personal-pictures figcaption {
+  margin-top: 5px;
+  text-align: center;
+}
